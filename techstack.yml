@@ -1,7 +1,8 @@
 repo_name: Or4cl3AI/ConvoGeniusAI
 report_id: f9111594859f6d8ab90605639ac61266
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-24T01:59:16+00:00'
+timestamp: '2024-01-05T08:34:32+00:00'
 requested_by: Or4cl3AI
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Or4cl3AI/ConvoGeniusAI
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/Or4cl3AI/ConvoGeniusAI
   detection_source: Repo Metadata
 - name: React
   description: A JavaScript library for building user interfaces
@@ -37,7 +40,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: convo-genius-ai-studio/backend/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/ConvoGeniusAI/blob/main/convo-genius-ai-studio/backend/requirements.txt
   detection_source: convo-genius-ai-studio/frontend/package.json
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-26 14:29:00.000000000 Z
@@ -49,6 +52,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Or4cl3AI/ConvoGeniusAI
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -58,6 +62,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/Or4cl3AI/ConvoGeniusAI/blob/main/convo-genius-ai-studio/backend/requirements.txt
   detection_source: convo-genius-ai-studio/backend/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-26 14:29:00.000000000 Z
@@ -69,6 +74,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/Or4cl3AI/ConvoGeniusAI/blob/main/convo-genius-ai-studio/frontend/package.json
   detection_source: convo-genius-ai-studio/frontend/package.json
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-26 14:29:00.000000000 Z
@@ -80,6 +86,7 @@ tools:
   category: Assets and Media
   sub_category: Image Processing and Management
   image_url: https://img.stackshare.io/service/1293/opencv-logo-64x64.png
+  detection_source_url: https://github.com/Or4cl3AI/ConvoGeniusAI/blob/main/convo-genius-ai-studio/backend/requirements.txt
   detection_source: convo-genius-ai-studio/backend/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-26 14:29:00.000000000 Z
@@ -93,13 +100,13 @@ tools:
   category: Application Utilities
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/4717/FtFnqC38_400x400.png
-  detection_source_url: convo-genius-ai-studio/backend/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/ConvoGeniusAI/blob/main/convo-genius-ai-studio/backend/requirements.txt
   detection_source: convo-genius-ai-studio/backend/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-26 14:29:00.000000000 Z
 - name: SpeechRecognition
   description: Library for performing speech recognition
-  package_url: https://pypi.org/SpeechRecognition
+  package_url: https://pypi.org/project/SpeechRecognition
   version: 3.8.1
   license: BSD-3-Clause
   open_source: true
@@ -107,13 +114,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
-  detection_source_url: convo-genius-ai-studio/backend/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/ConvoGeniusAI/blob/main/convo-genius-ai-studio/backend/requirements.txt
   detection_source: convo-genius-ai-studio/backend/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-26 14:29:00.000000000 Z
 - name: beautifulsoup4
   description: Screen-scraping library
-  package_url: https://pypi.org/beautifulsoup4
+  package_url: https://pypi.org/project/beautifulsoup4
   version: 4.10.0
   license: MIT
   open_source: true
@@ -121,13 +128,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19838/default_85689b353a3a9409328e253ea28d859d29151e0c.png
-  detection_source_url: convo-genius-ai-studio/backend/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/ConvoGeniusAI/blob/main/convo-genius-ai-studio/backend/requirements.txt
   detection_source: convo-genius-ai-studio/backend/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-26 14:29:00.000000000 Z
 - name: gTTS
   description: GTTS
-  package_url: https://pypi.org/gTTS
+  package_url: https://pypi.org/project/gTTS
   version: 2.2.3
   license: MIT
   open_source: true
@@ -135,13 +142,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
-  detection_source_url: convo-genius-ai-studio/backend/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/ConvoGeniusAI/blob/main/convo-genius-ai-studio/backend/requirements.txt
   detection_source: convo-genius-ai-studio/backend/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-26 14:29:00.000000000 Z
 - name: opencv-python
   description: Wrapper package for OpenCV python bindings
-  package_url: https://pypi.org/opencv-python
+  package_url: https://pypi.org/project/opencv-python
   version: 4.5.3
   license: MIT
   open_source: true
@@ -149,13 +156,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
-  detection_source_url: convo-genius-ai-studio/backend/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/ConvoGeniusAI/blob/main/convo-genius-ai-studio/backend/requirements.txt
   detection_source: convo-genius-ai-studio/backend/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-26 14:29:00.000000000 Z
 - name: psycopg2
   description: Psycopg2 - Python-PostgreSQL Database Adapter
-  package_url: https://pypi.org/psycopg2
+  package_url: https://pypi.org/project/psycopg2
   version: 2.9.1
   license: BSD-3-Clause-Attribution
   open_source: true
@@ -163,13 +170,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20416/default_64aa60b33468d1d28611966765867676f6303b64.png
-  detection_source_url: convo-genius-ai-studio/backend/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/ConvoGeniusAI/blob/main/convo-genius-ai-studio/backend/requirements.txt
   detection_source: convo-genius-ai-studio/backend/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-26 14:29:00.000000000 Z
 - name: requests
   description: Python HTTP for Humans
-  package_url: https://pypi.org/requests
+  package_url: https://pypi.org/project/requests
   version: 2.26.0
   license: Apache-2.0
   open_source: true
@@ -177,7 +184,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
-  detection_source_url: convo-genius-ai-studio/backend/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/ConvoGeniusAI/blob/main/convo-genius-ai-studio/backend/requirements.txt
   detection_source: convo-genius-ai-studio/backend/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-26 14:29:00.000000000 Z
@@ -198,7 +205,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: convo-genius-ai-studio/frontend/package.json
+  detection_source_url: https://github.com/Or4cl3AI/ConvoGeniusAI/blob/main/convo-genius-ai-studio/frontend/package.json
   detection_source: convo-genius-ai-studio/frontend/package.json
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-26 14:29:00.000000000 Z
@@ -212,7 +219,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: convo-genius-ai-studio/frontend/package.json
+  detection_source_url: https://github.com/Or4cl3AI/ConvoGeniusAI/blob/main/convo-genius-ai-studio/frontend/package.json
   detection_source: convo-genius-ai-studio/frontend/package.json
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-26 14:29:00.000000000 Z

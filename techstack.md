@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 Or4cl3AI/ConvoGeniusAI is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 - [React](https://reactjs.org/) – Javascript UI Libraries
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -9,11 +10,13 @@ Or4cl3AI/ConvoGeniusAI is built on the following main stack:
 - [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 Or4cl3AI/ConvoGeniusAI is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -21,14 +24,15 @@ Or4cl3AI/ConvoGeniusAI is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/4717/FtFnqC38_400x400.png' alt='TensorFlow'/> [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Or4cl3AI/ConvoGeniusAI](https://github.com/Or4cl3AI/ConvoGeniusAI)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|16<br/>Tools used|11/24/23 <br/>Report generated|
+|16<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -128,12 +132,12 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[SpeechRecognition](https://pypi.org/SpeechRecognition)|v3.8.1|08/26/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
-|[beautifulsoup4](https://pypi.org/beautifulsoup4)|v4.10.0|08/26/23|e2b-for-github[bot] |MIT|N/A|
-|[gTTS](https://pypi.org/gTTS)|v2.2.3|08/26/23|e2b-for-github[bot] |MIT|N/A|
-|[opencv-python](https://pypi.org/opencv-python)|v4.5.3|08/26/23|e2b-for-github[bot] |MIT|N/A|
-|[psycopg2](https://pypi.org/psycopg2)|v2.9.1|08/26/23|e2b-for-github[bot] |BSD-3-Clause-Attribution|N/A|
-|[requests](https://pypi.org/requests)|v2.26.0|08/26/23|e2b-for-github[bot] |Apache-2.0|[CVE-2023-32681](https://github.com/advisories/GHSA-j8r2-6x86-q33q) (Moderate)|
+|[SpeechRecognition](https://pypi.org/project/SpeechRecognition)|v3.8.1|08/26/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
+|[beautifulsoup4](https://pypi.org/project/beautifulsoup4)|v4.10.0|08/26/23|e2b-for-github[bot] |MIT|N/A|
+|[gTTS](https://pypi.org/project/gTTS)|v2.2.3|08/26/23|e2b-for-github[bot] |MIT|N/A|
+|[opencv-python](https://pypi.org/project/opencv-python)|v4.5.3|08/26/23|e2b-for-github[bot] |MIT|N/A|
+|[psycopg2](https://pypi.org/project/psycopg2)|v2.9.1|08/26/23|e2b-for-github[bot] |BSD-3-Clause-Attribution|N/A|
+|[requests](https://pypi.org/project/requests)|v2.26.0|08/26/23|e2b-for-github[bot] |Apache-2.0|[CVE-2023-32681](https://github.com/advisories/GHSA-j8r2-6x86-q33q) (Moderate)|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (2)
